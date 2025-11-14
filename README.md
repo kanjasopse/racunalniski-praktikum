@@ -3,6 +3,9 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
+
+## Povezava do spletne strani 
+https://github.com/kanjasopse/kanjasopse.github.io
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 Izberi vse (ctrl + A), preklopi med okni (Alt + Tab) in zapiranje programa (Alt + F4)
